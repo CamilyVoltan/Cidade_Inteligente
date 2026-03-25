@@ -1,2 +1,2 @@
-# smart-city
-This project was developed in the Integrated Project 3 class, in which a database with information about various cities was provided, and it was necessary to clean the data, select the data, and choose a "Smart City," which would be the ideal city to live in.
+# Cidade_Inteligente
+Este projeto foi desenvolvido na disciplina de Projeto Integrado 3, na qual foi fornecido um banco de dados com informações sobre várias cidades, e o objetivo era limpar os dados, selecionar os dados relevantes e escolher uma "Cidade Inteligente" através dos parâmetrpos determinados como principais (Segurança, Tecnologia, Meio Ambiente, Educação e PIB), que seria a cidade ideal para se viver.
